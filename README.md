@@ -7,6 +7,7 @@
 ├── .gitignore
 ├── Dockerfile
 ├── README.md
+├── requirements.txt
 ├── app/
 │ └── app.py # Ядро сервиса 
 ├── models/
