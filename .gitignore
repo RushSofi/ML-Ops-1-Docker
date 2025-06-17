@@ -1,0 +1,8 @@
+/input/
+/output/
+/train_data/
+.venv
+*.DS_Store
+*.csv
+*.json
+*.png
